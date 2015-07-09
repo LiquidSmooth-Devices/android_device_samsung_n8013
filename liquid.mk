@@ -2,7 +2,7 @@
 PRODUCT_RELEASE_NAME := n8013
 
 # Inherit some common CM stuff.
-$(call inherit-product, vendor/liquid/config/common_tablet.mk)
+$(call inherit-product, vendor/liquid/config/common_tablet_wifionly.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/samsung/n8013/full_n8013.mk)
