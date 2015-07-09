@@ -24,10 +24,10 @@
         "revision": "cm-12.1"
     },
     {
-        "remote": "cm",
-        "repository": "android_hardware_samsung",
+        "remote": "gh",
+        "repository": "TeamBliss-Devices/android_hardware_samsung",
         "target_path": "hardware/samsung",
-        "revision": "cm-12.1"
+        "revision": "lp5.1"
     },
     {
         "remote": "tm",
